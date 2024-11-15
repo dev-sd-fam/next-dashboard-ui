@@ -168,7 +168,7 @@ export const studentsData = [
     name: "Jay French",
     email: "jay@gmail.com",
     photo:
-      "https://images.pexels.com/photos/1087765/pexels-photo-1187765.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
     grade: 5,
     class: "5A",
